@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [click](https://github.com/yamadaMk12/blog-preview-card)
-- Live Site URL: [click](https://your-live-site-url.com)
+- Live Site URL: [click](https://yamadamk12.github.io/blog-preview-card)
 
 ## My process
 
